@@ -21,7 +21,7 @@ function makeButton() {
 	if (msg.search("SKIPFILTERKODRAN") != -1) { //super hacky way to do this :s
 		msg = msg.substring(16,msg.length);
 		body.value = msg;
-		//post.click();
+		post.click();
 	}
 	
 	var allSpans = document.getElementsByTagName('span');
