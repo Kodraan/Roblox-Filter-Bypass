@@ -5,9 +5,9 @@ Adds a second post button when replying to roblox forum threads. This button mak
 
 Known bugs:
 
---sometimes in weird cases it'll still filter the message. When this happens the message will not post so don't worry you have a chance to rephrase it. This appears to be because of the lowercase a character I'm using so I'll try to fix it soon. One example of this is any time you write lowercase 'az' it filters the entire message. 
-Sorry about that!
+--Certain characters aren't perfect size. Capital A is too small, lowercase m/r too small.
 
 Planned features:
 
 --Filter bypass when creating a new thread
+--Only change the filtered words (characters?) to weird unicode characters
