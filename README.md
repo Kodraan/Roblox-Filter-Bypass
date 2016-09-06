@@ -10,4 +10,5 @@ Known bugs:
 Planned features:
 
 --Filter bypass when creating a new thread
+
 --Only change the filtered words (characters?) to weird unicode characters
