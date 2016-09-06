@@ -40,11 +40,7 @@ function makeButton() {
 }
 
 function isUpper(c) { //Is character c uppercase?
-	if (c == c.toUpperCase()) {
-		return true;
-	} else {
-		return false;
-	}
+	return c == c.toUpperCase();
 }
 
 function findPos(c,u) { //find position of character c in table
